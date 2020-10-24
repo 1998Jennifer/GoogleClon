@@ -1,2 +1,2 @@
 # GoogleClon
-Clon de google con html y CSS3
+Clon de google con HTML y CSS3
